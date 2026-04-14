@@ -3,7 +3,7 @@ Power BI + MySQL Inventory Sales Dashboard Project
 # Inventory Sales Dashboard (Power BI + MySQL)
 
 ## 📊 Project Overview
-This project demonstrates an end-to-end data analytics workflow using MySQL and Power BI. The goal is to analyze sales performance and build an interactive dashboard.This project helped me understand data modeling, relationships, and dashboard creation in Power BI.
+This project demonstrates an end-to-end data analytics workflow using MySQL and Power BI. The goal is to analyze sales performance and build an interactive dashboard. This project helped me understand data modeling, relationships, and dashboard creation in Power BI.
 
 ## 🚀 Features
 - Data imported from MySQL database
@@ -36,3 +36,9 @@ Leon Biju
 ## 🔗 Data Model
 
 ![Dashboard](https://github.com/user-attachments/assets/72bb4f44-1fce-4958-90f4-5f4fea6fda83)
+
+## ▶️ How to Use
+1. Download the `.pbix` file
+2. Open using Power BI Desktop
+3. Use slicers (Rep, Month/Quarter/Week)
+4. Explore insights
